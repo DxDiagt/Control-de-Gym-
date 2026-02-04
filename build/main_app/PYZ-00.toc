@@ -1,0 +1,3 @@
+('C:\\Users\\Cristian carrasco\\Desktop\\Control de asistencia '
+ 'Gym\\build\\main_app\\PYZ-00.pyz',
+ [])
